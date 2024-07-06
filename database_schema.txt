@@ -1,0 +1,25 @@
+Collection users
+ document email
+    - name:     String
+    - email:    String
+
+Collection locations
+ document hashedEmail
+    - lat:      double
+    - lng:      double 
+
+Collection friends
+ document hashedEmail
+    - friend:   Map<String, String> {hashedEmail: name} 
+    - outbound: Map<String, String> {hashedEmail: name} 
+    - inbound:  Map<String, String> {hashedEmail: name} 
+
+//* The datatype change was made so that when a user queries the friends collection,
+//* They get all of the relevant info needed. 
+
+
+Dictionary
+    - users => name: username
+    - friends => friends: map of friends
+    - friends => outbound: map of friend request sent BY the user
+    - friends => inbound: map of friend request sent TO the user

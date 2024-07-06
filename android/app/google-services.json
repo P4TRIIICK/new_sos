@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "801993737445",
+    "project_id": "sosapp-21c4f",
+    "storage_bucket": "sosapp-21c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801993737445:android:440f1054f1238a7247000c",
+        "android_client_info": {
+          "package_name": "com.example.kahoot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfBNBDLM-ULDnsqJYVaqL7TxwaF7gbbfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801993737445:android:17af76bc8ac7647a47000c",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfBNBDLM-ULDnsqJYVaqL7TxwaF7gbbfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801993737445:android:b474ad1e57f95a4e47000c",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfBNBDLM-ULDnsqJYVaqL7TxwaF7gbbfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801993737445:android:89551bb14b26ba0047000c",
+        "android_client_info": {
+          "package_name": "com.projeto.utfpr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfBNBDLM-ULDnsqJYVaqL7TxwaF7gbbfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
